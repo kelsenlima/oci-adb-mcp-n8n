@@ -67,7 +67,7 @@ Parte 2 de uma série. A parte 1, com o agente **dentro** do banco (Select AI Ag
 
 **Pré-requisitos**
 
-- Autonomous AI Database 26ai (testado no **Always Free**, `us-chicago-1`).
+- Autonomous AI Database 26ai (funciona no **Always Free**).
 - Os dados de ITOps da parte 1: [`sql/01_dados_itops.sql`](https://github.com/kelsenlima/oci-select-ai-agent-itops/blob/main/sql/01_dados_itops.sql).
 - Um n8n com URL pública em HTTPS (testado no **n8n Cloud**) e uma credencial do Gemini.
 

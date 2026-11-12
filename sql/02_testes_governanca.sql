@@ -13,7 +13,7 @@ SELECT chamado_id, titulo, prioridade, aberto_por, status, origem
  ORDER BY chamado_id;
 
 -- Aprovação humana (troque o ID e o nome)
-EXEC aprovar_chamado(21, 'Seu Nome');
+EXEC aprovar_chamado(<ID_DO_CHAMADO>, '<NOME_DO_ANALISTA>');
 
 -- Trilha completa
 SELECT quando, ferramenta, entrada, resultado

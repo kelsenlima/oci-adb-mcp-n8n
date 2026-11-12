@@ -67,7 +67,7 @@ Part 2 of a series. Part 1, with the agent **inside** the database (Select AI Ag
 
 **Prerequisites**
 
-- Autonomous AI Database 26ai (tested on **Always Free**, `us-chicago-1`).
+- Autonomous AI Database 26ai (works on **Always Free**).
 - The sample ITOps data from part 1: [`sql/01_dados_itops.sql`](https://github.com/kelsenlima/oci-select-ai-agent-itops/blob/main/sql/01_dados_itops.sql).
 - An n8n instance with a public HTTPS URL (tested on **n8n Cloud**) and a Gemini credential.
 
